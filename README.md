@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Pizza App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Tailwind with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [Live Demo](https://60d2c59d30074f74f5b479a2--shivam-pizza.netlify.app/) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
